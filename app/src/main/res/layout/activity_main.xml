@@ -22,12 +22,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textColor="#FFBF00"
+            android:textSize="30sp"
             android:text="반갑습니다."/>
 
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:textsize="12sp"
             android:text="트레이더 애옹입니다.."/>
 
 

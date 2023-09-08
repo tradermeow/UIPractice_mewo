@@ -23,6 +23,7 @@
             android:layout_height="wrap_content"
             android:textColor="#FFBF00"
             android:textSize="30sp"
+            android:textstyle="bold"
             android:text="반갑습니다."/>
 
 
